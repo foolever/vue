@@ -2,8 +2,9 @@
 
 # vue-demo
 
-# 好好学习！
+# 好好学习
 
+> A Vue.js project
 > A Vue.js project
 
 ## Build Setup
